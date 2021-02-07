@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
 
 '''A great project on COMPUTER VISION runs with 100% accuracy'''
 
